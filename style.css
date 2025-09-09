@@ -64,7 +64,7 @@ header{
  /* Hero Section */
     .hero {
       height: 750px;
-    background-image: url("New folder/vicky-1742379106-AdobeStock_949535641-888x500.jpg");
+    background-image: url("vicky-1742379106-AdobeStock_949535641-888x500.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -527,4 +527,5 @@ button:hover {
     padding: 12px;
   }
 }
+
 
